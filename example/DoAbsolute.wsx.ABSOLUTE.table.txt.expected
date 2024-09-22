@@ -1,0 +1,3 @@
+array	sample	call status	purity	ploidy	Genome doublings	delta	Coverage for 80% power	Cancer DNA fraction	Subclonal genome fraction	tau	E_CR
+TCGA-DK-A1A6-01	TCGA-DK-A1A6-01	high entropy	0.67	3.45	0	0.22	18	0.78	0.01	3.34891105861831	0
+TCGA-DK-A1A6-06	TCGA-DK-A1A6-06	high entropy	0.44	2.38	0	0.2	20	0.49	0.01	2.33037878939397	0

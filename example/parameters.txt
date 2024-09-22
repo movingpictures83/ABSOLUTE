@@ -1,0 +1,6 @@
+seq_normal	SNP6_blood_normal.seg.txt
+seq_solid	SNP6_solid_tumor.seg.txt
+seq_metastatic	SNP6_metastatic_tumor.seg.txt
+maf_solid	solid_tumor.maf.txt
+maf_metastatic	metastatic_tumor.maf.txt
+

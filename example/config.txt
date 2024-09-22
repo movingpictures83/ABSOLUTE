@@ -1,0 +1,2 @@
+Prefix plugins/ABSOLUTE/example/
+Plugin ABSOLUTE inputfile parameters.txt outputfile .
